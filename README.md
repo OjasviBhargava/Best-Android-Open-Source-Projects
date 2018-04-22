@@ -29,6 +29,45 @@ It is quite simple, easy to understand and is perfectly suitable for any beginne
 PlayStore Link - https://play.google.com/store/apps/details?id=org.horaapps.leafpic
 
 
+## [Plaid](https://github.com/nickbutcher/plaid/)
+
+`Design news and inspiration.`
+
+Plaid is a showcase of material design. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs.
+
+Has 10,907 :star2: on GitHub
+
+
+
+## [Timber](https://github.com/naman14/Timber)
+
+`Material Design Music Player`
+
+A music application is something everyone wishes to make. Here is an amazing open source music application
+
+Material design
+Browse Songs, Albums, Artists
+Create and edit playlists
+6 different now playing styles
+Homescreen widgets
+Browse device folders
+Dark theme and UI customisability
+Gestures for track switching
+LastFM scrobble
+Android Wear and Android Auto support
+Playing queue in notification (Xposed)
+Lyrics support
+Chromecast support
+
+
+## [MovieGuide](https://github.com/esoxjem/MovieGuide/)
+
+The goal of this app is pretty simple, to list the popular movies with their trailers and reviews. Really interesting project.
+
+This app showcases the MVP pattern, RxJava, Dagger 2 and Uncle Bob Martin's Clean Architecture approach. Optimized for tablets.
+
+PS - Check the `Kotlin version` [here](https://github.com/esoxjem/MovieGuide-Kotlin)
+
 
 
 
